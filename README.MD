@@ -1,6 +1,4 @@
 This is our local repository
-<<<<<<< HEAD
-Hello
-=======
-Hieeee
->>>>>>> feat1
+
+This is almost done
+
